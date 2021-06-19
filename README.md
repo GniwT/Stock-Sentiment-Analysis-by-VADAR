@@ -1,4 +1,4 @@
-#**Sentiment Analysis with VADAR and BeautifulSoup**
+**Sentiment Analysis with VADAR and BeautifulSoup**
 
 Sentiment Analysis enables companies to know what kind of emotion/sentiment do customers have for them. This can play a huge role because companies can improve their products/services based on the analysis of customer sentiments.
 
